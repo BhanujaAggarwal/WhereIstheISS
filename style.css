@@ -1,0 +1,27 @@
+#mapid { 
+    height: 500px; 
+}
+.mydiv {
+    /* padding: 500px ,500px ,500px,500px ; */
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 25px;
+    color: white;
+}
+
+.mymapdiv{
+    border-radius: 10px;
+}
+
+body{
+    background-color: #002e4d;
+}
+
+#content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: -100px;
+    right: 0px;
+}
